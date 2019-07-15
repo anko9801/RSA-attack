@@ -2,7 +2,7 @@
 
 ## これは何？
 RSA暗号を勉強する為にRSA暗号の生成と復元、攻撃を行った.
-攻撃は[RSA暗号運用でやってはいけない n のこと](https://www.slideshare.net/sonickun/rsa-n-ssmjp)がとても参考になった. ありがとうございます.
+攻撃は[RSA暗号運用でやってはいけない n のこと](https://www.slideshare.net/sonickun/rsa-n-ssmjp)がとても参考になりました. ありがとうございます.
 
 ## 攻撃の種類
 - Simple Attack(ロー法など)
